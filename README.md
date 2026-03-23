@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Production-Ready+AI+Systems+%F0%9F%A4%96;LangChain+%7C+RAG+Pipelines+%7C+FastAPI+%F0%9F%94%A5;Full+Stack+Web+%2B+AI+Engineering+%F0%9F%9A%80;CS+Graduate+%7C+NUML+Lahore+2025+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AbdulRehmansalman&color=7c3aed&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/AbdulRehmansalman?label=Followers&style=flat-square&color=7c3aed)](https://github.com/AbdulRehmansalman)
 
 </div>
 
@@ -81,24 +77,6 @@ class AbdulRehman:
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--          FEATURED PROJECTS — NEW SECTION       -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## 📌 Featured Projects
-
-| 🔥 Project | 📝 Description | 🛠️ Tech Stack |
-|---|---|---|
-| 🤖 AI Projects | LangChain / RAG / NLP powered apps | Python, LangChain, FastAPI |
-| 🌦️ [NodeWeatherApp](https://github.com/AbdulRehmansalman/NodeWeatherApp) | Real-time weather via live API | Node.js, Handlebars |
-| 🏠 [RealEStateWebREACT](https://github.com/AbdulRehmansalman/RealEStateWebREACT) | Real estate listing platform | React, CSS |
-| 🔐 [mernLogin](https://github.com/AbdulRehmansalman/mernLogin) | Full auth system — MERN stack | MongoDB, Express, React, Node |
-| 📋 [ProjectManagementTool](https://github.com/AbdulRehmansalman/ProjectManagementtool) | Task & project tracker | JavaScript |
-| ☕ [JSPJavaLoginPage](https://github.com/AbdulRehmansalman/JSPJavaLoginPage) | Java web login with JDBC + MySQL | JSP, Java, MySQL |
-
-> 💡 *More AI & ML projects coming soon — stay tuned!*
-
----
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--          GITHUB STATS — GPRM PRESERVED         -->
@@ -130,7 +108,7 @@ class AbdulRehman:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRehmansalman&theme=discord&no-frame=true&no-bg=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRehmansalman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </div>
 
 ---
