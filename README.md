@@ -1,142 +1,82 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdul%20Rehman%20Salman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Production-Ready+AI+Systems+%F0%9F%A4%96;LangChain+%7C+RAG+Pipelines+%7C+FastAPI+%F0%9F%94%A5;Full+Stack+Web+%2B+AI+Engineering+%F0%9F%9A%80;CS+Graduate+%7C+NUML+Lahore+2025+%F0%9F%8E%93" alt="Typing SVG" />
-</a>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Abdul%20Rehman%20Salman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
 
 </div>
 
----
+## About me
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--            ABOUT ME — GPRM PRESERVED           -->
-<!-- ═══════════════════════════════════════════════ -->
+I'm a CS graduate from NUML Lahore (2025), working as an Associate Software Engineer on the MERN stack and AI systems — LangGraph, RAG pipelines, and LLM integrations.
 
-# 💫 About Me:
-👋 Hi, I'm AbdulRehman Salman<br><br>I build **production-ready AI systems and full-stack web applications**, focusing on real-world impact rather than demos.<br><br>I'm a Computer Science graduate (NUML Lahore, 2025) with hands-on experience in **LangChain, RAG pipelines, FastAPI, TensorFlow, and modern web technologies**.<br><br>I enjoy working across the stack, from designing intelligent AI workflows to building scalable backend systems and clean user interfaces.<br><br>Currently, I'm focused on building advanced AI-driven applications and continuously improving my system design and engineering skills.<br>
+Most of what's in this profile isn't coursework or clones. It's production systems: a voice AI agent handling real patient calls, a HIPAA-compliant clinic platform, a wildlife detection system that placed 3rd at my university's FYP competition. I like building things that have to actually hold up — real users, real constraints, not just a working demo.
 
----
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--              WHAT I DO — NEW SECTION           -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## 🧠 What I Actually Build
-
-```python
-class AbdulRehman:
-    name        = "Abdul Rehman Salman"
-    degree      = "BS Computer Science — NUML Lahore (2025)"
-    seeking     = ["AI Engineer", "Data Scientist", "ML Engineer"]
-
-    ai_stack    = ["LangChain", "RAG Pipelines", "TensorFlow", "PyTorch",
-                   "FastAPI", "Scikit-learn", "Hugging Face"]
-
-    web_stack   = ["React", "Next.js", "Node.js", "Express",
-                   "MongoDB", "PostgreSQL", "Docker"]
-
-    currently   = "Building AI-driven apps that solve real problems 🔥"
-    goal        = "Land a role in AI Engineering / Data Science 🎯"
-```
+Currently looking to grow into a Senior AI Engineer (full-stack) role.
 
 ---
 
-## 🚀 Quick Stats
+## What I've built
+
+**🎙️ Sara — Production Voice AI Agent**
+A voice AI agent for dental clinics. React-based interaction builder, LangGraph for conversation flow, Redis-queued async processing for latency-sensitive calls. Currently migrating the voice stack to a self-hosted LiveKit + Groq Whisper pipeline to cut per-call cost.
+`React · LangGraph · FastAPI · Groq · pgvector · Redis`
+
+**🏥 Algoricum — AI Clinic Automation Platform**
+A HIPAA-compliant automation platform for clinics. Role-based dashboard in Next.js, background automation for SMS/email driven by clinic-specific instructions instead of hardcoded templates, CRM integrations with HubSpot and Pipedrive.
+`Next.js · Node.js · HubSpot · Pipedrive`
+
+**🎓 First Movers AI Labs — EdTech SaaS Backend**
+Backend for course creation, enrollments, real-time chat, and Stripe billing. Normalized PostgreSQL schema, containerized and deployed on AWS.
+`Node.js · Express · PostgreSQL · Stripe · Docker · AWS`
+
+**🐾 Wildlife Poaching Prevention System** — *3rd place, NUML FYP 2025*
+Real-time detection system, 91% accuracy, combining YOLOv8 image detection with audio classification for things like gunshots. React dashboard for rangers with live geospatial tracking. Cut manual monitoring by 60%.
+`Python · YOLOv8 · FastAPI · React · Firebase`
+
+---
+
+## Tech stack
+
+### Core stack (daily use)
+**AI / ML**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Data & Infra**
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### Also worked with
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## GitHub stats
 
 <div align="center">
 
-| 🤖 AI & ML | 🌐 Web Dev | 🗄️ Databases | ☁️ Cloud |
-|:-----------:|:-----------:|:-------------:|:--------:|
-| LangChain | React / Next.js | PostgreSQL | AWS |
-| RAG Pipelines | Node.js / Express | MongoDB | Firebase |
-| TensorFlow | FastAPI | Redis | Vercel |
-| PyTorch | TypeScript | Supabase | Docker |
+![](https://github-readme-stats.vercel.app/api?username=AbdulRehmansalman&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehmansalman&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--            SOCIALS — GPRM PRESERVED            -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrehmansalman/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdurrehmansalman1234@gmail.com)
-
----
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--            TECH STACK — GPRM PRESERVED         -->
-<!-- ═══════════════════════════════════════════════ -->
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-
----
-
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--          GITHUB STATS — GPRM PRESERVED         -->
-<!-- ═══════════════════════════════════════════════ -->
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbdulRehmansalman&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AbdulRehmansalman&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehmansalman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--         CONTRIBUTION GRAPH — NEW SECTION       -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehmansalman&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--           TROPHIES — NEW SECTION               -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRehmansalman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--        OPEN TO WORK — NEW SECTION              -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## 💼 Open To Work
+## Let's connect
 
 <div align="center">
 
-🟢 **Actively seeking roles in:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrehmansalman/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdurrehmansalman1234@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://p-ort-folio-latest.vercel.app)
 
-`AI Engineer` &nbsp;|&nbsp; `Data Scientist` &nbsp;|&nbsp; `ML Engineer` &nbsp;|&nbsp; `Full Stack Developer`
-
-📧 **abdurrehmansalman1234@gmail.com** &nbsp;|&nbsp; 🌍 Pakistan (Remote / Relocation Open)
+Open to **AI Engineer** and **Full-Stack Developer** roles — Pakistan-based, open to remote.
 
 </div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=AbdulRehmansalman&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-⭐ **If you find my work useful, drop a star on any repo — it means a lot!**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
